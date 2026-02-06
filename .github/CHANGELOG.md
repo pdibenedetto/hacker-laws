@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.5.0](https://github.com/dwmkerr/hacker-laws/compare/v0.4.0...v0.5.0) (2026-02-06)
+
+
+### Features
+
+* add Jevons' Paradox ([4652447](https://github.com/dwmkerr/hacker-laws/commit/46524475b67a7b1766ba1e325ccff5f90e1738f8))
+* add Jevons' Paradox ([607feeb](https://github.com/dwmkerr/hacker-laws/commit/607feeb3cb078454124f5507695ff4cf624026e4)), closes [#430](https://github.com/dwmkerr/hacker-laws/issues/430)
+
+
+### Bug Fixes
+
+* broken all-contributors badge link ([ff24778](https://github.com/dwmkerr/hacker-laws/commit/ff24778aa8e3fda0eb514b1355eaaf6cdee63c54))
+* convert badge to HTML for proper rendering ([f79f2c8](https://github.com/dwmkerr/hacker-laws/commit/f79f2c83c5886736e1de33714e2f4326bf71b2b7))
+* remove all-contributors badge ([872a758](https://github.com/dwmkerr/hacker-laws/commit/872a7588b9042b3ac80ae5a7cea0b8b1e4877f71))
+
 ## [0.4.0](https://github.com/dwmkerr/hacker-laws/compare/v0.3.2...v0.4.0) (2025-12-29)
 
 
