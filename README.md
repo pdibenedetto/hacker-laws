@@ -37,6 +37,7 @@
     - [Hutber's Law](#hutbers-law)
     - [The Hype Cycle & Amara's Law](#the-hype-cycle--amaras-law)
     - [Hyrum's Law (The Law of Implicit Interfaces)](#hyrums-law-the-law-of-implicit-interfaces)
+    - [Jevons' Paradox](#jevons-paradox)
     - [Input-Process-Output (IPO)](#input-process-output-ipo)
     - [Kernighan's Law](#kernighans-law)
     - [Koomey's Law](#koomeys-law)
@@ -89,6 +90,7 @@
 - [Online Resources](#online-resources)
 - [PDF eBook](#pdf-ebook)
 - [Podcast](#podcast)
+- [Contributors](#contributors)
 
 <!-- vim-markdown-toc -->
 
@@ -423,6 +425,29 @@ See also:
 
 - [The Law of Leaky Abstractions](#the-law-of-leaky-abstractions)
 - [XKCD 1172](https://xkcd.com/1172/)
+
+### Jevons' Paradox
+
+[Jevons' Paradox on Wikipedia](https://en.wikipedia.org/wiki/Jevons_paradox)
+
+> It is wholly a confusion of ideas to suppose that the economical use of fuel is equivalent to a diminished consumption. The very contrary is the truth.
+>
+> _William Stanley Jevons (1865)_
+
+Named after economist William Stanley Jevons, who observed in 1865 that improvements in coal-burning engine efficiency led to *increased* coal consumption, not decreased. More efficient engines made coal economically attractive for more applications, driving overall demand higher.
+
+In software and technology:
+
+- Faster CPUs enable more resource-intensive software
+- Better compression algorithms lead to larger files being shipped
+- Faster networks result in heavier web pages
+
+The paradox suggests efficiency gains don't reduce resource usage, but in fact can lead in time to increased consumption. [Wirth's Law](https://en.wikipedia.org/wiki/Wirth%27s_law) and [Andy and Bill's Law](https://en.wikipedia.org/wiki/Andy_and_Bill%27s_law) are also examples of Jevon's Paradox applied to computing.
+
+See also:
+
+- [Moore's Law](#moores-law)
+- [Koomey's Law](#koomeys-law)
 
 ### Input-Process-Output (IPO)
 
